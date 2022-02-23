@@ -1,4 +1,4 @@
-Магазин одежды для интенсива GloAcademy
+Магазин одежды для интенсива [Свой Willberries JavaScript](https://glo-academy.org/teach/control/stream/view/id/550277247)  
 =================================
 ## Описание задачи
 
